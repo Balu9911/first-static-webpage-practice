@@ -1,0 +1,47 @@
+tags 
+1.container tags
+2.non container tags
+1) 1.<html> </html>
+   2.<h1> </h1>
+2) 1.<input />
+   2.<br/>
+   3.<hr/>
+   4.<link/>
+   5.<img/>
+   6.<meta/>
+   
+elements
+1.block level elements
+2.inline elements
+1) ->All block level elements/tags always syores with new line.
+   ->occupy complete width.
+   ->it takes top margin and bottom margin.
+	
+2)  ->never starts new line.
+    ->never occupy complete width.
+    ->never takes top margin and bottom margin.	
+	
+	HTML 5 TAGS(NEW FEATURES)
+	1.<audio>
+	2.<video>
+	3.<footer>
+	4.<header>
+	5.<nav>
+	6.<address>
+	7.<mark>
+	8.<input>
+	9.<figure>
+	10.<caption>
+	11.<time>------etc....
+	
+HTML 4
+1.Multimedia features[audio,video,drag,drop] supporting by using ADOBE FLASH PLAYER EXTENSION(1996-2020)
+2.Geo Location API are enhanced(we can use from remote places but location will come differnt )
+3.Browser Local Storage(it is authentication)
+4.HTML <Doc type> is very lengthy compare to HTML5.
+
+
+
+./ ----> current working directory	
+	
+	

@@ -1,0 +1,22 @@
+tags 
+1.container tags
+2.non container tags
+1) 1.<html> </html>
+   2.<h1> </h1>
+2) 1.<input />
+   2.<br/>
+   3.<hr/>
+   4.<link/>
+   5.<img/>
+   6.<meta/>
+   
+elements
+1.block level elements
+2.inline elements
+1) ->All block level elements/tags always syores with new line.
+   ->occupy complete width.
+   ->it takes top margin and bottom margin.
+	
+2)  ->never starts new line.
+    ->never occupy complete width.
+    ->never takes top margin and bottom margin.	
